@@ -14,8 +14,6 @@ Here are some of the things you can do:
 - Get notes of a key. 
 - Find intervals between degrees of a scale.
 
-
-
 A simple example:
 
 ```c#
@@ -46,3 +44,13 @@ A (Ionian) - A C# E
 B (Ionian) - B D# F#  
 C# (Ionian) - C# E G#  
 D# (Ionian) - D# F# A  
+
+
+
+Current to do list:
+
+- Code cleanup. Needs some cleanup.
+- Add octave to Note
+- Flats
+- Doesn't do E#, Eb, B# or Bb and so, for example, if you're in the key of F#, the vii chord it gives you is F instead of E#.
+- Chord analyzer to determine chord names from notes

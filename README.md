@@ -36,6 +36,8 @@ class Program
         }
     }        
 }
+```
+Output:
 
 E (Ionian) - E G# B 
 F# (Ionian) - F# A C# 
@@ -44,4 +46,3 @@ A (Ionian) - A C# E
 B (Ionian) - B D# F#
 C# (Ionian) - C# E G#
 D# (Ionian) - D# F# A
-```

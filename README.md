@@ -6,7 +6,7 @@ So it's lacking. But it does do the basics.
 
 It has modes. It doesn't do major and minor scales separate from modes. So major scale is Ionian mode and minor scale is Aeolian mode.
 
-Here are some of the things you can do:
+## Here are some of the things you can do:
 
 - Create basic chords with new Chord(Key, BasicChord) where BasicChord is an enum with a variety of standard chords. 
 - Get chords for a key/mode combination. So, for example, you can get 7 basic chords for C# Phrygian (see example below)
@@ -14,7 +14,7 @@ Here are some of the things you can do:
 - Get notes of a key. 
 - Find intervals between degrees of a scale.
 
-A simple example:
+## A simple example:
 
 ```c#
 class Program
@@ -47,7 +47,7 @@ D# (Ionian) - D# F# A
 
 
 
-Current to do list:
+## To do list:
 
 - Code cleanup. Needs some cleanup.
 - Add octave to Note
